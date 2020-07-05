@@ -11,7 +11,7 @@
     <table>
         <tr>
             {{csrf_field()}}
-            <td> YOUR  NAME</td>
+            <td> YOUR  NAME </td>
             <td> <input type='text' name= 'name'></td>
         </tr>
         <tr>
